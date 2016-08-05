@@ -1,0 +1,24 @@
+{
+  "name": "colonizer",
+  "version": "1.0.0",
+  "description": "for running colony on other projects",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "colony": "0.0.7",
+    "serve": "^1.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakefreeberg/colonizer.git"
+  },
+  "author": "Jake Freeberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakefreeberg/colonizer/issues"
+  },
+  "homepage": "https://github.com/jakefreeberg/colonizer#readme"
+}
